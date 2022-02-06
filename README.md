@@ -1,5 +1,3 @@
-# Planets fact site
+# Planets fact application
 
-<center>
-    <img src="https://raw.githubusercontent.com/mad-daniel/planets-fact-app/master/public/planets.gif">
-</center>
+<img src="https://raw.githubusercontent.com/mad-daniel/planets-fact-app/master/public/planets.gif">
