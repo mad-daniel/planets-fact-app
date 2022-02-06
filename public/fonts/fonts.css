@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Antonio";
+  src: url("/fonts/Antonio-Medium.woff2") format("woff2"),
+    url("/fonts/Antonio-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: medium;
+}
+
+@font-face {
+  font-family: "Spartan";
+  src: url("/fonts/spartan-regular.woff2") format("woff2"),
+    url("/fonts/spartan-regular.woff") format("woff");
+  font-weight: 400;
+  font-style: regular;
+}
+
+@font-face {
+  font-family: "Spartan";
+  src: url("/fonts/Spartan-Bold.woff2") format("woff2"),
+    url("/fonts/Spartan-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: bold;
+}
