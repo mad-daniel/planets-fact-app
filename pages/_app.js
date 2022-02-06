@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps, router }) {
   return (
     <>
       <Head>
-        <title>Planets Fact Site</title>
+        <title>Planets Fact Application</title>
         <meta name="description" content="facts about planets" />
       </Head>
       <GlobalStyle />
