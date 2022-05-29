@@ -1,3 +1,23 @@
-# Planets fact application
+# PLANETS FACT APP
 
-<img src="https://raw.githubusercontent.com/mad-daniel/planets-fact-app/master/public/planets.gif">
+Simple fact application about planets with Next.js
+
+## Project setup
+```
+npm install
+```
+
+## Starts the development server
+```
+npm run dev
+```
+
+## Starts the app for production
+```
+npm run build
+```
+
+## Runs the built app in production mode
+```
+npm run start
+```
